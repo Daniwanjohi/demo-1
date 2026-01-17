@@ -3,7 +3,7 @@
  
  ### Project Overview
  This project demonstrates how to structure a website using HTML only. CSS and JavaScript are intentionally excluded as the focus is on undersatnding how different parts of a website are arranged using proper HTML tags.  
- The website consits of multiple pages that are connected using a navigation bar.
+ The website consists of multiple pages that are connected using a navigation bar.
 
  ### Project Objectives
  The goals of this project are:
