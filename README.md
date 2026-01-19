@@ -1,5 +1,4 @@
-# demo-1
- A simple website built using HTML showing basic concepts.
+A simple HTML-only website.
  
  ### Project Overview
  This project demonstrates how to structure a website using HTML only. CSS and JavaScript are intentionally excluded as the focus is on undersatnding how different parts of a website are arranged using proper HTML tags.  
